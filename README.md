@@ -8,12 +8,12 @@ A simple GUI-based brute-force password cracker built using Python and Tkinter. 
 
 This project creates a GUI that simulates an **automatic brute-force attack** on a PBKDF2-hashed password with a known salt. The goal is to demonstrate the vulnerability of short or weak passwords against brute-force techniques.
 
-![Start Screen](screenshots/start.png)
+![GUI Start](./start.png)
 > *Figure: Start screen with the brute-force button*
 
 After pressing "Start Brute Force", the program begins attempting combinations of alphanumeric characters (A-Z, a-z, 0-9) of up to 4 characters in length. Once the correct password is found, a success message is displayed.
 
-![Result Screen](screenshots/result.png)
+![Password Found](./result.png)
 > *Figure: Brute-force successful — password "abc" found after 1371 attempts*
 
 ---
