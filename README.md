@@ -67,13 +67,10 @@ Disclaimer
 This project is strictly for educational purposes.
 Do NOT use this code for any unauthorized access or malicious activities. The intent is to understand brute-force risks and reinforce why secure, long passwords are necessary.
 
-📷 Screenshots
+Screenshots
 Start Screen	Brute-Force Result
 
-Author
-
+## Author
 Amisha Chaware
-
 CDAC Cybersecurity Student
-
 Aspiring Cybersecurity Professional
