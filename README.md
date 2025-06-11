@@ -70,7 +70,10 @@ Do NOT use this code for any unauthorized access or malicious activities. The in
 📷 Screenshots
 Start Screen	Brute-Force Result
 
-🙋‍♀️ Author
+Author
+
 Amisha Chaware
+
 CDAC Cybersecurity Student
+
 Aspiring Cybersecurity Professional
