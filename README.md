@@ -49,17 +49,19 @@ Ensure Python 3.10+ is installed along with the following packages:
 
 ```bash
 pip install django
+```
 
-Running the Project
+### Running the Project
 
 Clone the repository:
-
+```bash
 git clone https://github.com/yourusername/auto-brute-forcer.git
 cd auto-brute-forcer
-
+```
 Run the script:
-
+```bash
 python new1.py
+```
 
 Disclaimer
 This project is strictly for educational purposes.
